@@ -272,6 +272,7 @@ nav ul li a:hover::after {
 
 .social-icons {
     margin-top: 30px;
+    text-decoration: none;
 }
 
 .social-icons a {
@@ -286,6 +287,8 @@ nav ul li a:hover::after {
 .social-icons a:hover {
     color: var(--primary-color);
     transform: translateY(-5px);
+   
+   
 }
 
 .btn2 {
@@ -300,7 +303,10 @@ nav ul li a:hover::after {
     border-radius: 6px;
     text-align: center;
     text-decoration: none;
+   
 }
+
+
 
 .contact-right form {
     width: 100%;
